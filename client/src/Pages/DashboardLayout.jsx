@@ -1,5 +1,5 @@
 import Wrapper from "../assets/wrappers/Dashboard";
-import { Navbar, BigSidebar, SmallSidebar } from "../components";
+import { Navbar, BigSidebar, SmallSidebar } from "../Components";
 
 import { useState, createContext, useContext } from "react";
 import { checkDefaultTheme } from "../App";

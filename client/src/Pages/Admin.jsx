@@ -14,7 +14,7 @@ export const loader = async () => {
   }
 };
 
-import { StatItem } from "../components";
+import { StatItem } from "../Components";
 
 const Admin = () => {
   const { users, jobs } = useLoaderData();

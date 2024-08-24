@@ -1,4 +1,4 @@
-import { FormRow, SubmitBtn } from "../components";
+import { FormRow, SubmitBtn } from "../Components";
 import Wrapper from "../assets/wrappers/DashboardFormPage";
 import { useOutletContext } from "react-router-dom";
 import { useNavigation, Form } from "react-router-dom";

@@ -1,4 +1,4 @@
-import { FormRow, FormRowSelect, SubmitBtn } from "../components";
+import { FormRow, FormRowSelect, SubmitBtn } from "../Components";
 import Wrapper from "../assets/wrappers/DashboardFormPage";
 import { useLoaderData, useParams } from "react-router-dom";
 import { JOB_STATUS, JOB_TYPE } from "../../../utils/constants";
